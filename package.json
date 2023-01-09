@@ -1,0 +1,19 @@
+{
+  "name": "not-using-cra",
+  "version": "1.0.0",
+  "description": "not using create react app, react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "micro-frontend"
+  ],
+  "author": "David Tan",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
+}
